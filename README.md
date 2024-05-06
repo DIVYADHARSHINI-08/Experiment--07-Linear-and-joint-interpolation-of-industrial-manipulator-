@@ -1,3 +1,8 @@
+# DATE:22-04-2024
+# NAME : R DIVYA DHARSHINI
+# ROLL NO: 212223040042
+# DEPARTMENT: CSE
+
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
